@@ -1,287 +1,403 @@
-# ADV Group --- Vocero Digital con IA
+# Sistema de Identidad Audiovisual — ADV Group
 
-**Ejercicio Práctico: Creación de Voceros Digitales Personalizados**\
-Proyecto académico --- Curso Creación de contenido con AI / Coderhouse
+**Alumno:** Carlos Sansone  
+**Proyecto:** ADV Group  
+**Entrega:** Sistema de Identidad Audiovisual  
+**Concepto rector:** Conectar los puntos
 
-## 1. Concepto
+---
 
-El proyecto traslada al lenguaje audiovisual el sistema visual
-desarrollado previamente para ADV Group bajo el concepto **"Conectar los
-puntos"**.
+## 1. Introducción
 
-La intención fue construir una pieza en la que voz, música, personaje y
-movimiento no funcionaran como recursos independientes, sino como partes
-de una misma identidad: comprender información, analizar relaciones y
-encontrar una dirección.
+Esta entrega desarrolla un Sistema de Identidad Audiovisual para ADV Group a partir del universo estratégico y visual construido en las etapas anteriores del proyecto.
 
-El personaje utilizado es **Martín**, definido en el Módulo 3 como
-representación de un estratega contemporáneo: profesional, cercano,
-observador y seguro. Se mantuvieron su apariencia, vestuario y universo
-visual para asegurar continuidad entre la identidad visual y la
-audiovisual.
+El concepto rector continúa siendo **“Conectar los puntos”**, entendido como una representación del proceso estratégico de ADV Group: comprender información, analizar relaciones, detectar oportunidades y definir una dirección antes de avanzar hacia la creatividad.
 
-## 2. Workflow
+El objetivo de esta etapa fue trasladar ese concepto al lenguaje audiovisual integrando tres dimensiones:
 
-**Imagen del personaje → Voz IA → Música IA → Photo Avatar / Lip Sync →
-Postproducción → Video final**
+- una identidad sonora basada en una voz propia;
+- una identidad musical coherente con el posicionamiento;
+- un avatar digital capaz de representar visualmente a la marca.
 
-Herramientas utilizadas:
+La propuesta final integra estos elementos en una pieza audiovisual breve, desarrollada mediante diferentes herramientas de Inteligencia Artificial y posteriormente evaluada y ajustada mediante criterio humano.
 
--   **ChatGPT**: dirección estratégica, desarrollo del guion y
-    generación de la imagen maestra del avatar.
--   **ElevenLabs**: voz sintética de stock "Eduardo".
--   **Gemini**: apoyo exploratorio para evaluar alternativas de prosodia
-    y configuración de voz.
--   **Suno**: generación de identidad musical.
--   **HeyGen**: Photo Avatar, animación y sincronización labial mediante
-    Avatar IV.
--   **CapCut**: integración final, mezcla musical, recorte, subtítulos y
-    exportación.
+---
 
-## 3. Identidad sonora --- ElevenLabs
+## 2. Concepto audiovisual
 
-### Dirección de voz
+La identidad audiovisual parte de la misma lógica utilizada para construir el sistema visual:
 
-Se buscó una voz masculina adulta, cálida, segura, reflexiva y
-profesional, con registro argentino/rioplatense neutro. La idea rectora
-fue:
+**COMPRENDER → ANALIZAR → CONECTAR → DEFINIR UNA DIRECCIÓN**
 
-> **"Un estratega explicando una idea importante, no un locutor
-> vendiendo una agencia."**
+Cada componente cumple una función diferente dentro del sistema:
 
-Se priorizaron ritmo controlado, pausas breves, expresividad moderada y
-un cierre seguro sin tono publicitario.
+**La voz** representa el pensamiento, el criterio y la experiencia.
 
-### Guion
+**La música** representa la conexión progresiva entre elementos inicialmente separados.
 
-> Una estrategia no empieza con una respuesta.\
+**El avatar** incorpora una dimensión humana a la estrategia.
+
+La intención no fue desarrollar una pieza publicitaria tradicional, sino construir una expresión audiovisual coherente con el posicionamiento de ADV Group: profesional, estratégica, contemporánea, cercana y orientada a tomar decisiones con sentido.
+
+---
+
+# 3. Identidad sonora
+
+## Herramienta
+
+**ElevenLabs**
+
+Se seleccionó la voz **Eduardo** como base para construir la identidad sonora.
+
+La búsqueda se orientó hacia una voz masculina adulta, cálida, segura y reflexiva, evitando una interpretación excesivamente publicitaria.
+
+La dirección conceptual utilizada fue:
+
+> Un estratega explicando una idea importante, no un locutor vendiendo una agencia.
+
+Se buscó un ritmo controlado, pausas naturales y una expresividad moderada, transmitiendo experiencia, cercanía, capacidad de análisis y seguridad.
+
+---
+
+## Guion
+
+> Una estrategia no empieza con una respuesta.  
 > Empieza... cuando somos capaces de mirar más allá de lo evidente.
 >
-> En ADV Group... creemos que pensar estratégicamente... es conectar lo
-> que otros ven por separado:\
-> el negocio... las personas... el contexto... los problemas... y las
-> oportunidades.
+> En A-De-Ve Group... creemos que pensar estratégicamente... es conectar lo que otros ven por separado:  
+> el negocio... las personas... el contexto... los problemas... y las oportunidades.
 >
-> Primero comprendemos.\
-> Después analizamos.\
+> Primero comprendemos.  
+> Después analizamos.  
 > Y recién entonces... definimos una dirección.
 >
-> Porque comunicar no es sumar piezas.\
+> Porque comunicar no es sumar piezas.  
 > Es tomar decisiones con sentido...
 >
-> Cuando los puntos se conectan... la complejidad se ordena... las
-> oportunidades aparecen... y la creatividad encuentra un propósito.
+> Cuando los puntos se conectan... la complejidad se ordena... las oportunidades aparecen... y la creatividad encuentra un propósito.
 >
-> ADV Group.\
+> A-De-Ve Group.  
 > Estrategia antes que creatividad.
 
-**Duración del audio final:** 41,27 segundos.
+**Duración final de la voz: 41,27 segundos.**
 
-### Iteración y pronunciación de marca
+La duración se encuentra dentro del rango de 30 a 45 segundos establecido para el ejercicio.
 
-Durante las pruebas se detectó una pronunciación inconsistente de **ADV
-Group**. Se ensayaron distintas formas de guiarla mediante separación de
-letras, puntuación y escritura fonética/castellanizada ("A-De-Ve
-Group"). Esto mejoró la lectura, aunque la primera mención conserva una
-leve inconsistencia.
+---
 
-La configuración disponible en la versión utilizada no permitió alcanzar
-un control fonético más preciso. Se registra como oportunidad de mejora
-para futuras versiones.
+## Configuración y proceso
 
-La versión final fue seleccionada por transmitir mejor criterio,
-experiencia, cercanía y reflexión.
+La voz fue trabajada mediante diferentes pruebas de interpretación y configuración.
 
-## 4. Identidad musical --- Suno
+En la versión final se utilizaron parámetros aproximados de:
 
-La música debía traducir el concepto **"Conectar los puntos"**:
-elementos inicialmente separados que progresivamente se relacionan hasta
-construir una estructura y una dirección.
+- Stability: 65 %
+- Similarity: 78 %
+- Style Exaggeration: baja
+- Speaker Boost: activado
+- Formato: MP3 / 44.1 kHz / 128 kbps
 
-### Prompt final
+Durante las primeras pruebas se detectó una pronunciación inconsistente de la marca **ADV Group**.
 
-> Minimal contemporary instrumental for a strategy and creative
-> consultancy brand. Precise, intelligent and understated. Built around
-> a subtle rhythmic pulse, small percussive details, restrained
-> electronic textures and short repeating tonal motifs that gradually
-> interlock, creating the feeling of separate elements connecting into a
-> clear system. Modern editorial design aesthetic translated into sound.
-> Confident, sophisticated, human and focused, with forward movement but
-> no drama. Clean arrangement, controlled dynamics and generous space
-> for a calm male voice-over. Around 90 BPM. Subtle evolution from
-> curiosity to clarity and resolution. The final section should feel
-> confident and resolved, leaving space for a spoken brand signature.
-> Instrumental only. No vocals. No cinematic storytelling. No emotional
-> lead melody.
+Para mejorarla se realizaron distintas pruebas de escritura y puntuación. Finalmente, dentro del texto utilizado para la generación sonora se escribió fonéticamente **“A-De-Ve Group”**, manteniendo **“ADV Group”** como escritura gráfica oficial de la marca.
 
-**Exclusiones:** cinematic, epic, emotional soundtrack, ambient
-soundscape, corporate motivational, inspirational advertising, piano
-ballad, orchestral, trailer, dramatic build, sentimental, dreamy,
-ethereal, synthwave, EDM, futuristic technology, heavy bass, aggressive
-drums, vocals, choir.
+También se utilizó Gemini como herramienta complementaria para explorar alternativas de prosodia, estabilidad, similitud, expresividad y construcción de pausas. Estas recomendaciones funcionaron como punto de partida y posteriormente fueron probadas y ajustadas dentro de ElevenLabs.
 
-### Exploración
+La configuración disponible en la versión utilizada no permitió alcanzar un control fonético completamente preciso en todas las menciones de la marca. Esta situación se considera una oportunidad de refinamiento futuro y forma parte de las limitaciones documentadas durante el proceso.
 
-Se probaron distintas alternativas:
+---
 
--   **Smoke and Space**: demasiado atmosférica.
--   **Threaded Compass**: interesante, pero demasiado
-    narrativa/cinematográfica.
--   **Smoke and Silence**: sofisticada, aunque todavía contemplativa.
--   **Forward Motion**: seleccionada por su precisión, progresión y
-    sensación de construcción/dirección.
+# 4. Identidad musical
 
-### Configuración documentada
+## Herramienta
 
--   Modelo: **v6-mini**
--   Modo: **Advanced**
--   Duration: **Auto**
--   Max Mode: **Off**
--   Weirdness: **50 %**
--   Style Influence: **50 %**
--   Variety: **High**
--   Personalize / My Taste: **Off**
--   Resultado seleccionado: **Forward Motion**
--   Instrumental, sin voces
+**Suno**
 
-## 5. Avatar digital --- HeyGen
+La música fue pensada como una traducción sonora del concepto **“Conectar los puntos”**.
 
-Se utilizó la imagen consistente de Martín desarrollada a partir del
-Manual de Identidad Visual del Módulo 3.
+La intención fue comenzar con elementos relativamente independientes que progresivamente se relacionaran entre sí hasta construir una estructura musical clara.
 
-### Imagen maestra
+Se evitaron deliberadamente recursos asociados a:
 
--   Formato: **9:16**
--   Plano medio
--   Mirada a cámara
--   Expresión calma, segura y cercana
--   Vestuario smart-casual: camisa clara + saco grafito
--   Entorno editorial contemporáneo coherente con ADV Group
--   Iluminación natural y fondo limpio
+- música corporativa motivacional;
+- épica cinematográfica;
+- crescendos dramáticos;
+- estética tecnológica futurista;
+- melodías excesivamente emocionales;
+- voces o coros.
 
-### Integración
+---
 
-La imagen fue cargada como **Photo Avatar** en HeyGen. Para conservar la
-identidad sonora, se subió directamente el MP3 final generado en
-ElevenLabs en lugar de utilizar una voz de HeyGen.
+## Exploración
 
-Configuración utilizada:
+Se realizaron diferentes generaciones y pruebas.
 
--   Motion Engine: **Avatar IV**
--   Layout: **Original**
--   Zoom: **100 %**
--   Audio: archivo propio de ElevenLabs
--   Duración aproximada en HeyGen: **41,3 s**
--   Formato: **9:16**
+Entre ellas:
 
-La función **Custom Motion** aparecía disponible en la interfaz, pero no
-estaba habilitada en la versión utilizada. Por ese motivo se trabajó con
-el movimiento automático de Avatar IV. El resultado mantiene
-sincronización labial natural, aunque la gestualidad de manos es algo
-más activa que la dirección ideal definida para Martín.
+**Smoke and Space**  
+Resultado demasiado atmosférico para el posicionamiento buscado.
 
-La marca de agua de HeyGen corresponde al plan gratuito y es válida
-según las condiciones del ejercicio.
+**Threaded Compass**  
+Interesante desde lo conceptual, pero con un carácter demasiado narrativo/cinematográfico.
 
-## 6. Postproducción --- CapCut
+**Smoke and Silence**  
+Sofisticada, aunque excesivamente contemplativa.
 
-La integración final se realizó en CapCut con tres componentes
-principales:
+**Forward Motion**  
+Seleccionada como versión final por su precisión, progresión, contemporaneidad y sensación de dirección.
 
-1.  Video de Martín generado en HeyGen.
-2.  Audio maestro de ElevenLabs.
-3.  Música **Forward Motion** generada en Suno.
+---
 
-### Mezcla
+## Prompt final
 
--   Voz: master principal.
--   Música: **−34,1 dB**, ajustada perceptivamente para no competir con
-    la locución.
--   Fade in musical: **1 s**.
--   Fade out musical: **2 s**.
+> Minimal contemporary instrumental for a strategy and creative consultancy brand. Precise, intelligent and understated. Built around a subtle rhythmic pulse, small percussive details, restrained electronic textures and short repeating tonal motifs that gradually interlock, creating the feeling of separate elements connecting into a clear system. Modern editorial design aesthetic translated into sound. Confident, sophisticated, human and focused, with forward movement but no drama. Clean arrangement, controlled dynamics and generous space for a calm male voice-over. Around 90 BPM. Subtle evolution from curiosity to clarity and resolution. The final section should feel confident and resolved, leaving space for a spoken brand signature. Instrumental only. No vocals. No cinematic storytelling. No emotional lead melody.
 
-El valor musical se definió por escucha y relación con la voz,
-priorizando en todo momento la inteligibilidad del vocero.
+Se excluyeron estilos y recursos como:
 
-### Subtítulos
+> cinematic, epic, emotional soundtrack, ambient soundscape, corporate motivational, inspirational advertising, piano ballad, orchestral, trailer, dramatic build, sentimental, dreamy, ethereal, synthwave, EDM, futuristic technology, heavy bass, aggressive drums, vocals, choir
 
-Se generó una primera transcripción automática en CapCut y luego se
-realizó control humano:
+---
 
--   corrección de puntuación;
--   corrección de mayúsculas e inicios de oración;
--   ajuste de segmentación;
--   escritura gráfica correcta de **ADV Group**;
--   ubicación en zona segura para formato vertical;
--   estilo limpio y de alta legibilidad.
+## Configuración
 
-## 7. Resultado final
+- Modelo: v6-mini
+- Modo: Advanced
+- Duración: Auto
+- Max Mode: Off
+- Weirdness: 50 %
+- Style Influence: 50 %
+- Variety: High
+- Personalize / My Taste: Off
+- Tipo: Instrumental
 
-**Archivo:** `output/carlos-sansone-grupo-adv-vocero-digital-final.mp4`
+La pieza seleccionada fue **Forward Motion**.
 
-Ficha técnica del master exportado:
+La construcción progresiva permite representar musicalmente el recorrido:
 
--   Formato: **9:16**
--   Resolución: **1080 × 1920**
--   Frame rate: **30 fps**
--   Codec de video: **H.264**
--   Audio: **AAC estéreo, 44,1 kHz**
--   Duración final: **42,45 s**
+**PUNTOS → CONEXIONES → ESTRUCTURA → DIRECCIÓN**
 
-El resultado integra voz IA, música IA, personaje consistente,
-sincronización labial, identidad visual y adaptación a redes sociales.
+---
 
-## 8. Evaluación y aprendizajes
+# 5. Avatar digital
 
-El workflow permitió validar que la coherencia audiovisual no depende de
-una única herramienta, sino de la relación entre decisiones tomadas en
-cada etapa.
+## Herramienta
 
-**Fortalezas del resultado:**
+**HeyGen**
 
--   continuidad visual de Martín respecto del Módulo 3;
--   voz sintética clara y con intención estratégica;
--   música subordinada a la voz y coherente con el concepto;
--   sincronización labial natural;
--   formato vertical pensado para redes;
--   revisión humana de transcripción y resultado final.
+Para representar visualmente la identidad se retomó a **Martín**, personaje desarrollado previamente dentro del Sistema de Identidad Visual de ADV Group.
 
-**Oportunidades de mejora:**
+Martín no fue concebido como una mascota ni como una representación literal de una persona real de la empresa, sino como un recurso narrativo capaz de humanizar el pensamiento estratégico.
 
--   alcanzar un control fonético todavía más preciso de "ADV Group";
--   reducir la frecuencia de gestos manuales mediante controles
-    personalizados de movimiento cuando estén disponibles;
--   exportar directamente desde HeyGen en una versión que permita mayor
-    control del archivo fuente.
+---
 
-## 9. Estructura del repositorio
+## Apariencia
 
-``` text
-carlos-sansone-grupo-adv-vocero-digital/
-├── README.md
-├── assets/
-│   ├── martin-avatar-master-9x16.png
-│   ├── voz-elevenlabs-eduardo.mp3
-│   └── forward-motion-suno.mp3
-├── output/
-│   └── carlos-sansone-grupo-adv-vocero-digital-final.mp4
-└── documentation/
-    ├── 01-elevenlabs-config.png
-    ├── 02-heygen-avatar.png
-    ├── 03-heygen-audio-avatar-iv.png
-    ├── 04-capcut-three-tracks.png
-    ├── 05-capcut-mix-settings.png
-    └── 06-capcut-captions.png
-```
+Se mantuvieron las características definidas previamente:
 
-## 10. Nota académica
+- hombre adulto de aproximadamente 40–45 años;
+- apariencia profesional y contemporánea;
+- cabello oscuro con presencia sutil de canas;
+- barba corta;
+- vestimenta smart-casual;
+- saco grafito y camisa clara;
+- expresión segura, observadora y cercana;
+- entorno editorial contemporáneo;
+- iluminación cálida y natural.
 
-Este repositorio corresponde a un **ejercicio académico** de Coderhouse.
-Los activos generados con planes gratuitos se utilizan únicamente en
-este contexto. La música generada con Suno en plan gratuito se incorpora
-con finalidad académica/no comercial y con atribución a **Suno**.
+Se desarrolló una imagen maestra específica en formato vertical **9:16**, pensada para facilitar su utilización posterior como avatar y su adaptación a contenidos para redes sociales.
 
-------------------------------------------------------------------------
+---
 
-**ADV Group**\
-**Estrategia antes que creatividad.**
+## Configuración de animación
+
+El personaje fue incorporado en HeyGen como **Photo Avatar**.
+
+Para la animación se utilizó:
+
+- Avatar: Martín | ADV Group
+- Motion Engine: Avatar IV
+- Layout: Original
+- Zoom inicial: 100 %
+- More expressive motion: desactivado en la primera configuración
+- Audio: voz final generada previamente en ElevenLabs
+- Duración aproximada: 41 segundos
+
+Utilizar exactamente el mismo audio generado en ElevenLabs permitió mantener coherencia entre la identidad sonora desarrollada y la sincronización labial del avatar.
+
+---
+
+# 6. Evaluación del primer resultado
+
+La primera generación permitió validar satisfactoriamente:
+
+- identidad del personaje;
+- sincronización labial;
+- coherencia entre voz y avatar;
+- duración;
+- formato vertical;
+- integración general del sistema.
+
+Sin embargo, durante la evaluación se detectó que determinados movimientos de las manos resultaban más expresivos de lo deseado para el carácter sobrio, estratégico y reflexivo definido para ADV Group.
+
+A partir de esta observación se realizó una nueva instancia de exploración dentro de HeyGen.
+
+---
+
+# 7. Exploración de movimiento y limitaciones de HeyGen
+
+Se analizaron las opciones avanzadas disponibles para controlar con mayor precisión el comportamiento del avatar.
+
+Entre ellas:
+
+- Custom Motion;
+- Expression;
+- Gestures;
+- Gaze;
+- More Expressive Motion.
+
+La interfaz permitía visualizar estas posibilidades, pero la versión utilizada requería acceder a una modalidad de pago para utilizar las instrucciones personalizadas y determinados controles específicos.
+
+Por esta razón se decidió no modificar el concepto del avatar ni generar una solución alternativa desconectada del sistema desarrollado.
+
+En cambio, la limitación fue abordada posteriormente desde la edición audiovisual.
+
+Esta decisión permitió mantener el mismo personaje, la misma voz y la misma animación, utilizando el montaje como herramienta para controlar visualmente los momentos en los que la gestualidad resultaba excesiva.
+
+---
+
+# 8. Integración audiovisual
+
+## Herramienta
+
+**CapCut**
+
+La integración final se realizó mediante tres capas principales:
+
+1. video generado con Martín en HeyGen;
+2. voz final generada en ElevenLabs;
+3. música Forward Motion generada en Suno.
+
+La voz funcionó como elemento principal de la mezcla.
+
+La música se utilizó como soporte y no como protagonista, manteniendo suficiente espacio dinámico para conservar la inteligibilidad del relato.
+
+---
+
+## Mezcla de audio
+
+Configuración final de la música:
+
+- Volumen: -34,1 dB
+- Fade In: 1 segundo
+- Fade Out: 2 segundos
+- Reducción de ruido: desactivada
+
+La voz se mantuvo como señal principal, sin procesamiento adicional significativo.
+
+---
+
+# 9. Optimización del montaje
+
+A partir de la evaluación del primer resultado se desarrolló una segunda instancia de edición.
+
+El objetivo principal fue disminuir visualmente la presencia de la gestualidad manual sin perder la naturalidad del avatar.
+
+Para resolverlo se generó un segundo encuadre más cerrado sobre Martín.
+
+El plano original se mantuvo como referencia general, mientras que el nuevo encuadre se utilizó estratégicamente en determinados momentos del discurso.
+
+De esta manera, una limitación del motor de movimiento pudo ser resuelta mediante una decisión de montaje.
+
+---
+
+## Transiciones
+
+Para evitar cambios bruscos entre el plano original y el encuadre cerrado se incorporaron transiciones breves y discretas.
+
+Se utilizaron transiciones de aproximadamente **0,3 segundos**, buscando que el cambio de escala fuera perceptible pero no se transformara en un recurso protagonista.
+
+El objetivo fue mantener una edición sobria y coherente con el lenguaje de ADV Group.
+
+---
+
+# 10. Subtítulos y adaptación a redes
+
+Los subtítulos fueron generados inicialmente de forma automática en CapCut.
+
+Posteriormente se realizó una revisión manual para corregir:
+
+- puntuación;
+- mayúsculas;
+- segmentación de frases;
+- cortes de lectura;
+- escritura gráfica correcta de **ADV Group**.
+
+También se modificó su posición para adaptarlos a los diferentes encuadres.
+
+En los planos más cerrados se desplazaron hacia una zona inferior segura para evitar interferir con el rostro del personaje.
+
+Se mantuvo una resolución gráfica simple:
+
+- tipografía sans serif;
+- color blanco;
+- alta legibilidad;
+- tratamiento visual discreto.
+
+El objetivo fue que los subtítulos acompañaran el contenido sin transformarse en un elemento gráfico dominante.
+
+---
+
+# 11. Limitación de exportación
+
+Durante la instancia final de exportación, CapCut identificó los subtítulos automáticos como una función asociada al plan Pro.
+
+Aunque la edición, corrección y adaptación de los subtítulos había podido realizarse dentro del proyecto, la versión utilizada no permitió exportar posteriormente el resultado manteniendo este recurso.
+
+Para conservar y documentar todas las decisiones realizadas se registró la reproducción del resultado final mediante una **grabación de pantalla**. Esto se ve evidenciado en el audio ya que tiene algo de ruido por el micrófono.
+
+Esta limitación se mantiene documentada como parte del proceso de experimentación con las diferentes herramientas utilizadas.
+
+No afecta la evaluación conceptual del sistema ni las decisiones de voz, música, avatar, montaje, encuadre o subtitulado desarrolladas durante el ejercicio.
+
+---
+
+# 12. Resultado final
+
+La versión final integra:
+
+**ElevenLabs** → identidad sonora  
+**Suno** → identidad musical  
+**HeyGen** → avatar y sincronización  
+**CapCut** → montaje, mezcla, encuadres, transiciones y subtítulos
+
+El resultado mantiene una duración aproximada de **42 segundos** y utiliza formato vertical **9:16**, pensado principalmente para contenidos audiovisuales en redes sociales.
+
+La segunda versión incorpora las mejoras detectadas durante la evaluación del primer resultado:
+
+- reducción visual de la gestualidad excesiva;
+- incorporación de un plano más cerrado;
+- transiciones suaves entre encuadres;
+- reposicionamiento de subtítulos;
+- revisión manual del contenido textual.
+
+---
+
+# 13. Aprendizaje y criterio humano
+
+El proceso permitió comprobar que construir una identidad audiovisual mediante Inteligencia Artificial no consiste únicamente en generar voz, música, imagen y movimiento.
+
+Cada herramienta resuelve una parte diferente del sistema, pero los resultados requieren evaluación, selección y corrección.
+
+Durante el desarrollo se encontraron limitaciones concretas: pronunciación fonética, control de gestualidad, funciones condicionadas por planes de uso y restricciones durante la exportación.
+
+En lugar de ocultarlas, fueron documentadas y utilizadas como parte del proceso de aprendizaje.
+
+La IA permitió generar, explorar y acelerar diferentes instancias del proyecto.
+
+El criterio humano permitió evaluar, corregir, conectar y decidir.
+
+Ese proceso coincide con el concepto que estructura toda la identidad de ADV Group:
+
+> **Pensar estratégicamente es conectar lo que otros ven por separado.**
+
+Cuando los puntos se conectan, la creatividad encuentra un propósito.
